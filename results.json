@@ -1,0 +1,44 @@
+[
+  {
+    "Date": "2026-02-14 00:39",
+    "Outcome": "победа",
+    "Tries": 7,
+    "Level": ""
+  },
+  {
+    "Date": "2026-02-14 00:44",
+    "Outcome": "проигрыш",
+    "Tries": 5,
+    "Level": "hard"
+  },
+  {
+    "Date": "2026-02-14 00:48",
+    "Outcome": "проигрыш",
+    "Tries": 5,
+    "Level": "hard"
+  },
+  {
+    "Date": "2026-02-14 00:48",
+    "Outcome": "проигрыш",
+    "Tries": 5,
+    "Level": "hard"
+  },
+  {
+    "Date": "2026-02-14 00:58",
+    "Outcome": "победа",
+    "Tries": 4,
+    "Level": "easy"
+  },
+  {
+    "Date": "2026-02-14 01:12",
+    "Outcome": "победа",
+    "Tries": 5,
+    "Level": "easy"
+  },
+  {
+    "Date": "2026-02-14 01:30",
+    "Outcome": "победа",
+    "Tries": 3,
+    "Level": "hard"
+  }
+]
